@@ -1,3 +1,4 @@
+
 # Contatore Interattivo
 
 # Descrizione
@@ -33,3 +34,6 @@ Oppure apri il file `Contatore.html` direttamente in un browser.
 - HTML
 - CSS
 - JavaScript
+=======
+# contatore-interattivo
+>>>>>>> origin/main

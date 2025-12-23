@@ -24,7 +24,7 @@ Progetto sulla manipolazione del DOM e nella gestione degli eventi in JavaScript
 
 # Link Progetto
 Puoi visualizzare il sito live qui: 
-[Vedi il Contatore Online](https://progetto-javascript-michele-ughenti.netlify.app/Contatore.html)
+[Vedi il Contatore Online](https://progetto-javascript-michele-ugenti.netlify.app/Contatore.html)
 
 Oppure apri il file `Contatore.html` direttamente in un browser.
 

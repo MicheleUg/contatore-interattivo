@@ -22,18 +22,16 @@ Progetto sulla manipolazione del DOM e nella gestione degli eventi in JavaScript
 
 ---
 
-# Come provare l'app
-Puoi provare l'applicazione online cliccando sul link qui sotto:  
-[Prova l'app qui](https://tuo-link-diploy.netlify.app)  
+# Link Progetto
+Puoi visualizzare il sito live qui: 
+[Vedi il Contatore Online](https://progetto-javascript-michele-ughenti.netlify.app/Contatore.html)
 
 Oppure apri il file `Contatore.html` direttamente in un browser.
 
 ---
 
-# Tecnologie utilizzate
-- HTML
-- CSS
-- JavaScript
-=======
-# contatore-interattivo
->>>>>>> origin/main
+# Stack Tecnico
+Frontend: HTML5 e CSS3 per la struttura e lo stile.
+Logica: JavaScript (ES6+) per la manipolazione del DOM.
+Hosting: Netlify per il deploy continuo.
+Versionamento: Git e GitHub per la gestione del codice.

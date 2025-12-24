@@ -17,7 +17,7 @@ Progetto sulla manipolazione del DOM e nella gestione degli eventi in JavaScript
 ---
 
 # Screenshot
-[Screenshot App](ScreenshotContatore.png)
+![Screenshot del contatore](./img/ScreenshotContatore.png)
 
 
 ---
